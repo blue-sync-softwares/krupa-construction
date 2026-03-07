@@ -1,0 +1,12 @@
+*.md
+node_modules/
+.env
+.DS_Store
+.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Note: Generated HTML files (.html) are committed intentionally for Vercel deployment
+# Template files (.html.template) are the source of truth
